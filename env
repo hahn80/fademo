@@ -1,0 +1,4 @@
+IS_DEBUG=True
+SECRET_KEY=0f3d0b77-6344-4e9e-8c36-7de72e78b9e7
+DEFAULT_MODEL_PATH=typeform/mobilebert-uncased-mnli
+
